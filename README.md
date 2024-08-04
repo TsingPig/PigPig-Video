@@ -1,5 +1,7 @@
 # 猪猪视频
 
+效果展示：https://www.bilibili.com/video/BV17g4y1D7CD/?spm_id_from=333.999.0.0&vd_source=7edb63ea9bb59761315b8b9f881d685d
+
 [TOC]
 
 一个安卓视频播放器，已上传github：
